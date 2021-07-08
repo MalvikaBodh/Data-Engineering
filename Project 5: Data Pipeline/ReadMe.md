@@ -32,4 +32,4 @@ The project consists of 2 main directories
         4. data_quality.py this customer operator allows us to perform data quality check in out DAG
 
 ##### DAG Created as a result of the project
-![image info](./Capture.png)
+![image info](Capture.png)
