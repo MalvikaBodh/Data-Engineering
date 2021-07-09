@@ -32,4 +32,4 @@ The project consists of 2 main directories
         4. data_quality.py this customer operator allows us to perform data quality check in out DAG
 
 ##### DAG Created as a result of the project
-![Screenshot](/home/workspace/airflow/Capture.png)
+![Screenshot](https://github.com/MalvikaBodh/Data-Engineering/blob/main/Project%205:%20Data%20Pipeline/Capture.PNG)
